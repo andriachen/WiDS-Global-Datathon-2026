@@ -2,9 +2,6 @@
 
 **Team Bos_8_Cinderruff** | Andria Chen, Nina Pappas, Marvin Hoang
 
-[![Score](https://img.shields.io/badge/Leaderboard%20Score-0.97834-brightgreen)]()
-[![Competition](https://img.shields.io/badge/WiDS%20Datathon-2026-orange)]()
-
 ---
 
 ## 📌 Overview
